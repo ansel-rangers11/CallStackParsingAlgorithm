@@ -1,0 +1,10 @@
+19 Enter A
+20 Enter B
+21 Enter C
+22 Exit C
+23 Enter C
+24 Exit C
+25 Exit B
+26 Exit A
+27 Enter A
+28 Exit A

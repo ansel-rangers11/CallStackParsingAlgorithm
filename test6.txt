@@ -1,0 +1,15 @@
+17.792 Enter TD()
+17.793 Enter GDR()
+17.795 Exit GDR()
+17.800 Enter SetDMA()
+17.820 Enter SetDESCR()
+17.831 Enter WriteDESCR()
+17.832 Exit WriteDESCR()
+17.832 Debug: Src:0x45700b00
+17.833 Enter WriteDESCR()
+17.834 Warning: Address not in range
+17.835 Exit WriteDESCR()
+17.836 Exit SETDESCR()
+17.840 Debug: Checking DMA destination
+17.845 Exit SetDMA()
+17.845 Exit TD()

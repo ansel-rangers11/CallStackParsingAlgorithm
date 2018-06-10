@@ -1,0 +1,4 @@
+74.5 Enter A
+75.6 Enter B
+76.1 Exit B
+76.7 Exit A
